@@ -1,0 +1,6 @@
+{
+  "name": "Code Studio",
+  "description": "Offline mobile IDE with local Android SDK, NDK, Kotlin & Java toolchains, Git repository integration, and secure file manager.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Code Studio</string>
+    <string name="nav_workspace">Workspace</string>
+    <string name="nav_editor">Editor</string>
+    <string name="nav_files">File Vault</string>
+    <string name="nav_sdk">SDK &amp; NDK</string>
+    <string name="nav_terminal">Terminal</string>
+    <string name="sdk_storage_title">Internal Toolchain Sandbox</string>
+    <string name="sdk_install_all">Install All Offline Toolchains</string>
+    <string name="sdk_verify_integrity">Verify Integrity</string>
+    <string name="git_clone_title">Git Repository Clone &amp; Convert</string>
+    <string name="run_code">Run Code</string>
+    <string name="build_project">Build APK / Run</string>
+    <string name="save_file">Save File</string>
+    <string name="new_file">New File</string>
+    <string name="new_folder">New Folder</string>
+</resources>
